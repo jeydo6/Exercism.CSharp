@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollTheDie", "roll-the-die\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimFromMarketing", "tim-from-marketing\TimFromMarketing.csproj", "{A4334AD6-1C38-4768-A49C-1FD9FE7EACD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaddlePoints", "saddle-points\SaddlePoints.csproj", "{C216FFCC-06B1-4A7A-B63E-08B3DDBC1567}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{A4334AD6-1C38-4768-A49C-1FD9FE7EACD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4334AD6-1C38-4768-A49C-1FD9FE7EACD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4334AD6-1C38-4768-A49C-1FD9FE7EACD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C216FFCC-06B1-4A7A-B63E-08B3DDBC1567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C216FFCC-06B1-4A7A-B63E-08B3DDBC1567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C216FFCC-06B1-4A7A-B63E-08B3DDBC1567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C216FFCC-06B1-4A7A-B63E-08B3DDBC1567}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
