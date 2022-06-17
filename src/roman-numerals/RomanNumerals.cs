@@ -3,7 +3,7 @@ using System.Text;
 
 internal static class RomanNumeralExtension
 {
-    private static readonly IDictionary<string, int> RomanInts = new Dictionary<string, int>
+    private static readonly IDictionary<string, int> _romanInts = new Dictionary<string, int>
     {
         ["M"] = 1000,
         ["CM"] = 900,
@@ -23,7 +23,7 @@ internal static class RomanNumeralExtension
     public static string ToRoman(this int value)
     {
         var sb = new StringBuilder();
-        foreach (var pair in RomanInts)
+        foreach (var pair in _romanInts)
         {
             if (value <= 0)
             {
