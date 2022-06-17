@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdWatcher", "bird-watcher
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedForSpeed", "need-for-speed\NeedForSpeed.csproj", "{57795D73-6A9E-4BA7-8A15-16529C03701C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingUpForBeauty", "booking-up-for-beauty\BookingUpForBeauty.csproj", "{E77882FB-073E-4515-AF57-016C69940329}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{57795D73-6A9E-4BA7-8A15-16529C03701C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57795D73-6A9E-4BA7-8A15-16529C03701C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57795D73-6A9E-4BA7-8A15-16529C03701C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E77882FB-073E-4515-AF57-016C69940329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77882FB-073E-4515-AF57-016C69940329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77882FB-073E-4515-AF57-016C69940329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77882FB-073E-4515-AF57-016C69940329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
