@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaddlePoints", "saddle-poin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffieHellman", "diffie-hellman\DiffieHellman.csproj", "{A4577FCD-CD79-4652-B27E-1A2AAD3B5569}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdWatcher", "bird-watcher\BirdWatcher.csproj", "{D40315F4-FCAE-468E-BE0A-24EB24B80D60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{A4577FCD-CD79-4652-B27E-1A2AAD3B5569}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4577FCD-CD79-4652-B27E-1A2AAD3B5569}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4577FCD-CD79-4652-B27E-1A2AAD3B5569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40315F4-FCAE-468E-BE0A-24EB24B80D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40315F4-FCAE-468E-BE0A-24EB24B80D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40315F4-FCAE-468E-BE0A-24EB24B80D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40315F4-FCAE-468E-BE0A-24EB24B80D60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
