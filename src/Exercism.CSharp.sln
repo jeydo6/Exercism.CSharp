@@ -40,6 +40,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffieHellman", "diffie-hel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdWatcher", "bird-watcher\BirdWatcher.csproj", "{D40315F4-FCAE-468E-BE0A-24EB24B80D60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedForSpeed", "need-for-speed\NeedForSpeed.csproj", "{57795D73-6A9E-4BA7-8A15-16529C03701C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{D40315F4-FCAE-468E-BE0A-24EB24B80D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D40315F4-FCAE-468E-BE0A-24EB24B80D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D40315F4-FCAE-468E-BE0A-24EB24B80D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57795D73-6A9E-4BA7-8A15-16529C03701C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57795D73-6A9E-4BA7-8A15-16529C03701C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57795D73-6A9E-4BA7-8A15-16529C03701C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57795D73-6A9E-4BA7-8A15-16529C03701C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
