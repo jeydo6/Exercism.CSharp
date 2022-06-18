@@ -60,6 +60,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProteinTranslation", "prote
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gigasecond", "gigasecond\Gigasecond.csproj", "{5E913622-55CE-45E1-B6D5-F2AF0817D7EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistorColor", "resistor-color\ResistorColor.csproj", "{248D16E9-75B4-465F-A0D1-5A3969FE3B06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,5 +188,9 @@ Global
 		{5E913622-55CE-45E1-B6D5-F2AF0817D7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E913622-55CE-45E1-B6D5-F2AF0817D7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E913622-55CE-45E1-B6D5-F2AF0817D7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248D16E9-75B4-465F-A0D1-5A3969FE3B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248D16E9-75B4-465F-A0D1-5A3969FE3B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248D16E9-75B4-465F-A0D1-5A3969FE3B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248D16E9-75B4-465F-A0D1-5A3969FE3B06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
