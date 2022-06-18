@@ -58,6 +58,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceAge", "space-age\Space
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProteinTranslation", "protein-translation\ProteinTranslation.csproj", "{10907966-D6C3-4EA7-B47E-90F5C9D37F14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gigasecond", "gigasecond\Gigasecond.csproj", "{5E913622-55CE-45E1-B6D5-F2AF0817D7EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,5 +182,9 @@ Global
 		{10907966-D6C3-4EA7-B47E-90F5C9D37F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10907966-D6C3-4EA7-B47E-90F5C9D37F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10907966-D6C3-4EA7-B47E-90F5C9D37F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E913622-55CE-45E1-B6D5-F2AF0817D7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E913622-55CE-45E1-B6D5-F2AF0817D7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E913622-55CE-45E1-B6D5-F2AF0817D7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E913622-55CE-45E1-B6D5-F2AF0817D7EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
