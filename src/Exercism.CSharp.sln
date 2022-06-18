@@ -52,6 +52,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunLengthEncoding", "run-le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMatrix", "spiral-matrix\SpiralMatrix.csproj", "{CE1A48AA-35DA-4C17-B63E-EB606E9D319F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfMultiples", "sum-of-multiples\SumOfMultiples.csproj", "{1B8AF445-0B18-49F1-AAA9-BFDFD89447C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +164,9 @@ Global
 		{CE1A48AA-35DA-4C17-B63E-EB606E9D319F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE1A48AA-35DA-4C17-B63E-EB606E9D319F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE1A48AA-35DA-4C17-B63E-EB606E9D319F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8AF445-0B18-49F1-AAA9-BFDFD89447C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8AF445-0B18-49F1-AAA9-BFDFD89447C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8AF445-0B18-49F1-AAA9-BFDFD89447C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8AF445-0B18-49F1-AAA9-BFDFD89447C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
