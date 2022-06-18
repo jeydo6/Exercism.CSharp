@@ -62,6 +62,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gigasecond", "gigasecond\Gi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistorColor", "resistor-color\ResistorColor.csproj", "{248D16E9-75B4-465F-A0D1-5A3969FE3B06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistorColorDuo", "resistor-color-duo\ResistorColorDuo.csproj", "{23808E27-BB52-4BEE-9B71-22C5C4BD19D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -192,5 +194,9 @@ Global
 		{248D16E9-75B4-465F-A0D1-5A3969FE3B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{248D16E9-75B4-465F-A0D1-5A3969FE3B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{248D16E9-75B4-465F-A0D1-5A3969FE3B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23808E27-BB52-4BEE-9B71-22C5C4BD19D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23808E27-BB52-4BEE-9B71-22C5C4BD19D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23808E27-BB52-4BEE-9B71-22C5C4BD19D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23808E27-BB52-4BEE-9B71-22C5C4BD19D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
