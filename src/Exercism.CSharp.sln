@@ -54,6 +54,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMatrix", "spiral-matr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfMultiples", "sum-of-multiples\SumOfMultiples.csproj", "{1B8AF445-0B18-49F1-AAA9-BFDFD89447C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceAge", "space-age\SpaceAge.csproj", "{44EBCC6E-1A77-4032-B387-640B9E047BDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +170,9 @@ Global
 		{1B8AF445-0B18-49F1-AAA9-BFDFD89447C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B8AF445-0B18-49F1-AAA9-BFDFD89447C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B8AF445-0B18-49F1-AAA9-BFDFD89447C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44EBCC6E-1A77-4032-B387-640B9E047BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EBCC6E-1A77-4032-B387-640B9E047BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EBCC6E-1A77-4032-B387-640B9E047BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EBCC6E-1A77-4032-B387-640B9E047BDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
