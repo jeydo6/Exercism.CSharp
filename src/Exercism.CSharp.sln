@@ -72,6 +72,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore", "book-store\Boo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup", "meetup\Meetup.csproj", "{FD2A6038-1EE0-4F0A-AA36-1A8E7E9AA95F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailFenceCipher", "rail-fence-cipher\RailFenceCipher.csproj", "{C4F73B99-823F-491A-8833-84EE9ADB8EB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -222,5 +224,9 @@ Global
 		{FD2A6038-1EE0-4F0A-AA36-1A8E7E9AA95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD2A6038-1EE0-4F0A-AA36-1A8E7E9AA95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD2A6038-1EE0-4F0A-AA36-1A8E7E9AA95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F73B99-823F-491A-8833-84EE9ADB8EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F73B99-823F-491A-8833-84EE9ADB8EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F73B99-823F-491A-8833-84EE9ADB8EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F73B99-823F-491A-8833-84EE9ADB8EB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
