@@ -74,6 +74,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup", "meetup\Meetup.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailFenceCipher", "rail-fence-cipher\RailFenceCipher.csproj", "{C4F73B99-823F-491A-8833-84EE9ADB8EB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles", "rectangles\Rectangles.csproj", "{DAFA0BE7-0CD6-4E34-ABF3-9C0DE4CA9AC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -228,5 +230,9 @@ Global
 		{C4F73B99-823F-491A-8833-84EE9ADB8EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4F73B99-823F-491A-8833-84EE9ADB8EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4F73B99-823F-491A-8833-84EE9ADB8EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFA0BE7-0CD6-4E34-ABF3-9C0DE4CA9AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFA0BE7-0CD6-4E34-ABF3-9C0DE4CA9AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFA0BE7-0CD6-4E34-ABF3-9C0DE4CA9AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFA0BE7-0CD6-4E34-ABF3-9C0DE4CA9AC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
