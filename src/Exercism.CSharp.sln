@@ -82,6 +82,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleGenerator", "scale-gen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlattenArray", "flatten-array\FlattenArray.csproj", "{ADBECFD3-C609-4CAE-A7C5-C85F4139EF32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizardsAndWarriors", "wizards-and-warriors\WizardsAndWarriors.csproj", "{B73140AA-1EFD-4D3F-95AA-EC77E27465B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -252,5 +254,9 @@ Global
 		{ADBECFD3-C609-4CAE-A7C5-C85F4139EF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADBECFD3-C609-4CAE-A7C5-C85F4139EF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADBECFD3-C609-4CAE-A7C5-C85F4139EF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73140AA-1EFD-4D3F-95AA-EC77E27465B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73140AA-1EFD-4D3F-95AA-EC77E27465B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73140AA-1EFD-4D3F-95AA-EC77E27465B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73140AA-1EFD-4D3F-95AA-EC77E27465B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
