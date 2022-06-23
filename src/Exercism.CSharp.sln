@@ -92,6 +92,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accumulate", "accumulate\Ac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactors", "prime-factors\PrimeFactors.csproj", "{539EC57B-55C5-401E-BD82-C9C2F3D63ACE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotName", "robot-name\RobotName.csproj", "{35562E31-5284-41C0-936F-95D8F2DEA4B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -282,5 +284,9 @@ Global
 		{539EC57B-55C5-401E-BD82-C9C2F3D63ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{539EC57B-55C5-401E-BD82-C9C2F3D63ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{539EC57B-55C5-401E-BD82-C9C2F3D63ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35562E31-5284-41C0-936F-95D8F2DEA4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35562E31-5284-41C0-936F-95D8F2DEA4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35562E31-5284-41C0-936F-95D8F2DEA4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35562E31-5284-41C0-936F-95D8F2DEA4B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
