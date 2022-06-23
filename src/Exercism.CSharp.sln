@@ -90,6 +90,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperOptimizedTelemetry", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accumulate", "accumulate\Accumulate.csproj", "{79631ACD-AE48-4756-A95F-1218999B53EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactors", "prime-factors\PrimeFactors.csproj", "{539EC57B-55C5-401E-BD82-C9C2F3D63ACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -276,5 +278,9 @@ Global
 		{79631ACD-AE48-4756-A95F-1218999B53EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79631ACD-AE48-4756-A95F-1218999B53EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79631ACD-AE48-4756-A95F-1218999B53EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{539EC57B-55C5-401E-BD82-C9C2F3D63ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539EC57B-55C5-401E-BD82-C9C2F3D63ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539EC57B-55C5-401E-BD82-C9C2F3D63ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539EC57B-55C5-401E-BD82-C9C2F3D63ACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
