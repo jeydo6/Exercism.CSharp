@@ -86,6 +86,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizardsAndWarriors", "wizar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TracksOnTracksOnTracks", "tracks-on-tracks-on-tracks\TracksOnTracksOnTracks.csproj", "{7640467D-A82C-4A50-97DD-D12E56B72B50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperOptimizedTelemetry", "hyper-optimized-telemetry\HyperOptimizedTelemetry.csproj", "{5FA680CC-2BE5-4E52-BDF3-3FB9697F08B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -264,5 +266,9 @@ Global
 		{7640467D-A82C-4A50-97DD-D12E56B72B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7640467D-A82C-4A50-97DD-D12E56B72B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7640467D-A82C-4A50-97DD-D12E56B72B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA680CC-2BE5-4E52-BDF3-3FB9697F08B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA680CC-2BE5-4E52-BDF3-3FB9697F08B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA680CC-2BE5-4E52-BDF3-3FB9697F08B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA680CC-2BE5-4E52-BDF3-3FB9697F08B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
