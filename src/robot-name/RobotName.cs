@@ -40,7 +40,7 @@ internal class Robot
 
         for (var i = result.Length - 1; i >= 2; i--)
         {
-            result[i] = (char)('0' + (number % 10));
+            result[i] = (char)('0' + number % 10);
             number /= 10;
         }
 
