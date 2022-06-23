@@ -34,8 +34,7 @@ public class ScaleGeneratorTests
     public void Major_scale_with_flats()
     {
         var expected = new[] { "F", "G", "A", "Bb", "C", "D", "E" };
-        var actual = ScaleGenerator.Interval("F", "MMmMMMm");
-        Assert.Equal(expected, actual);
+        Assert.Equal(expected, ScaleGenerator.Interval("F", "MMmMMMm"));
     }
 
     [Fact]
