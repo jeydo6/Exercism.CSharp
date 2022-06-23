@@ -94,6 +94,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactors", "prime-facto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotName", "robot-name\RobotName.csproj", "{35562E31-5284-41C0-936F-95D8F2DEA4B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "linked-list\LinkedList.csproj", "{9C6F1A9B-FA00-4AD1-B231-0CA2E2D61A82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -288,5 +290,9 @@ Global
 		{35562E31-5284-41C0-936F-95D8F2DEA4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35562E31-5284-41C0-936F-95D8F2DEA4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35562E31-5284-41C0-936F-95D8F2DEA4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6F1A9B-FA00-4AD1-B231-0CA2E2D61A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6F1A9B-FA00-4AD1-B231-0CA2E2D61A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6F1A9B-FA00-4AD1-B231-0CA2E2D61A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6F1A9B-FA00-4AD1-B231-0CA2E2D61A82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
