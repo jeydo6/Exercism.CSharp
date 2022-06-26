@@ -134,6 +134,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Allergies", "allergies\Alle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KindergartenGarden", "kindergarten-garden\KindergartenGarden.csproj", "{ABA139F8-1004-471D-AC4F-C67CDE5D746B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sublist", "sublist\Sublist.csproj", "{EAC161D6-D274-4EAE-ABF1-DD84A806F7FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -408,5 +410,9 @@ Global
 		{ABA139F8-1004-471D-AC4F-C67CDE5D746B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABA139F8-1004-471D-AC4F-C67CDE5D746B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABA139F8-1004-471D-AC4F-C67CDE5D746B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC161D6-D274-4EAE-ABF1-DD84A806F7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC161D6-D274-4EAE-ABF1-DD84A806F7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC161D6-D274-4EAE-ABF1-DD84A806F7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC161D6-D274-4EAE-ABF1-DD84A806F7FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
