@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 internal class WordSearch
 {
@@ -17,14 +16,29 @@ internal class WordSearch
     };
     
     private readonly string[] _grid;
-
-    public WordSearch(string grid) => _grid = grid.Split('\n', StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries);
-
+    
+    public WordSearch(string grid) =>
+        _grid = grid.Split('\n', StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries);
+    
     public Dictionary<string, ((int X, int Y) Start, (int X, int Y) End)?> Search(string[] wordsToSearchFor)
     {
-        return null;
+        var result = new Dictionary<string, ((int X, int Y) Start, (int X, int Y) End)?>();
+        for (var i = 0; i < _grid.Length; i++)
+        {
+            for (var j = 0; j < _grid[i].Length; j++)
+            {
+                foreach (var word in wordsToSearchFor)
+                {
+                    if (!result.ContainsKey(word) || result[word] == null)
+                    {
+                        result[word] = Search(word, (j + 1, i + 1));
+                    }
+                }
+            }
+        }
+        return result;
     }
-
+    
     private ((int X, int Y) Start, (int X, int Y) End)? Search(string word, (int X, int Y) start)
     {
         foreach (var direction in _directions)
@@ -46,7 +60,6 @@ internal class WordSearch
                 end = (end.X + direction.X, end.Y + direction.Y);
             }
         }
-
         return null;
     }
 }

@@ -10,7 +10,11 @@ public class WordSearchTests
         var grid = "jefblpepre";
         var sut = new WordSearch(grid);
         var actual = sut.Search(wordsToSearchFor);
-        Assert.Null(actual["clojure"]);
+        var expected = new Dictionary<string, ((int, int), (int, int))?>
+        {
+            ["clojure"] = null
+        };
+        Assert.Equal(expected["clojure"], actual["clojure"]);
     }
 
     [Fact]
@@ -475,6 +479,6 @@ public class WordSearchTests
         Assert.Equal(expected["lua"], actual["lua"]);
         Assert.Equal(expected["lisp"], actual["lisp"]);
         Assert.Equal(expected["ruby"], actual["ruby"]);
-        Assert.Null(expected["haskell"]);
+        Assert.Equal(expected["haskell"], actual["haskell"]);
     }
 }
