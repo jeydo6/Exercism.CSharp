@@ -162,6 +162,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumber", "phone-number
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueenAttack", "queen-attack\QueenAttack.csproj", "{991A0729-C8D5-4CD4-B3C7-8B818DB5E358}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strain", "strain\Strain.csproj", "{3BAEA9AA-466A-4CAF-A5B2-A6E657B6AFE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -492,5 +494,9 @@ Global
 		{991A0729-C8D5-4CD4-B3C7-8B818DB5E358}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{991A0729-C8D5-4CD4-B3C7-8B818DB5E358}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{991A0729-C8D5-4CD4-B3C7-8B818DB5E358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BAEA9AA-466A-4CAF-A5B2-A6E657B6AFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAEA9AA-466A-4CAF-A5B2-A6E657B6AFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAEA9AA-466A-4CAF-A5B2-A6E657B6AFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAEA9AA-466A-4CAF-A5B2-A6E657B6AFE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
