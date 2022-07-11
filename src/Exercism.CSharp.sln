@@ -166,6 +166,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strain", "strain\Strain.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretHandshake", "secret-handshake\SecretHandshake.csproj", "{5DA543A6-CCC4-4E14-A9EE-C13996C787AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeProducts", "palindrome-products\PalindromeProducts.csproj", "{BA6CCF66-3608-4C22-BA9D-E12B2F4914C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -504,5 +506,9 @@ Global
 		{5DA543A6-CCC4-4E14-A9EE-C13996C787AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DA543A6-CCC4-4E14-A9EE-C13996C787AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DA543A6-CCC4-4E14-A9EE-C13996C787AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6CCF66-3608-4C22-BA9D-E12B2F4914C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6CCF66-3608-4C22-BA9D-E12B2F4914C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6CCF66-3608-4C22-BA9D-E12B2F4914C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6CCF66-3608-4C22-BA9D-E12B2F4914C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
