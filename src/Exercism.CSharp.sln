@@ -172,6 +172,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling", "bowling\Bowling.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllYourBase", "all-your-base\AllYourBase.csproj", "{18A53BAD-2662-4D4F-9301-2A079B9EA3D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcrNumbers", "ocr-numbers\OcrNumbers.csproj", "{32BC7E53-E403-4D72-9EA6-AEF4FD22D85A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -522,5 +524,9 @@ Global
 		{18A53BAD-2662-4D4F-9301-2A079B9EA3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18A53BAD-2662-4D4F-9301-2A079B9EA3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18A53BAD-2662-4D4F-9301-2A079B9EA3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BC7E53-E403-4D72-9EA6-AEF4FD22D85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BC7E53-E403-4D72-9EA6-AEF4FD22D85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BC7E53-E403-4D72-9EA6-AEF4FD22D85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BC7E53-E403-4D72-9EA6-AEF4FD22D85A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
