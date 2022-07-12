@@ -168,6 +168,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretHandshake", "secret-h
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeProducts", "palindrome-products\PalindromeProducts.csproj", "{BA6CCF66-3608-4C22-BA9D-E12B2F4914C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling", "bowling\Bowling.csproj", "{ACD20D1A-592A-4DFC-B66A-FCA708583A3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -510,5 +512,9 @@ Global
 		{BA6CCF66-3608-4C22-BA9D-E12B2F4914C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA6CCF66-3608-4C22-BA9D-E12B2F4914C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA6CCF66-3608-4C22-BA9D-E12B2F4914C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD20D1A-592A-4DFC-B66A-FCA708583A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD20D1A-592A-4DFC-B66A-FCA708583A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD20D1A-592A-4DFC-B66A-FCA708583A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD20D1A-592A-4DFC-B66A-FCA708583A3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
