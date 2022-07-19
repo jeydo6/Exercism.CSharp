@@ -176,6 +176,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcrNumbers", "ocr-numbers\O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AffineCipher", "affine-cipher\AffineCipher.csproj", "{05E74FFF-E75D-488E-8BC8-7AC5A8D1EBBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableLengthQuantity", "variable-length-quantity\VariableLengthQuantity.csproj", "{F8FB81A3-BDA4-47B6-90DE-35FEFE34DBA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -534,5 +536,9 @@ Global
 		{05E74FFF-E75D-488E-8BC8-7AC5A8D1EBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05E74FFF-E75D-488E-8BC8-7AC5A8D1EBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05E74FFF-E75D-488E-8BC8-7AC5A8D1EBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FB81A3-BDA4-47B6-90DE-35FEFE34DBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FB81A3-BDA4-47B6-90DE-35FEFE34DBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FB81A3-BDA4-47B6-90DE-35FEFE34DBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FB81A3-BDA4-47B6-90DE-35FEFE34DBA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
