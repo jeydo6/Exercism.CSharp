@@ -180,6 +180,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableLengthQuantity", "v
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestSeriesProduct", "largest-series-product\LargestSeriesProduct.csproj", "{0917B617-F943-46FF-B6E9-D1C5C1E144FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularBuffer", "circular-buffer\CircularBuffer.csproj", "{991A2BA4-F4D0-486C-B557-CC656F4F751A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -546,5 +548,9 @@ Global
 		{0917B617-F943-46FF-B6E9-D1C5C1E144FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0917B617-F943-46FF-B6E9-D1C5C1E144FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0917B617-F943-46FF-B6E9-D1C5C1E144FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991A2BA4-F4D0-486C-B557-CC656F4F751A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991A2BA4-F4D0-486C-B557-CC656F4F751A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991A2BA4-F4D0-486C-B557-CC656F4F751A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991A2BA4-F4D0-486C-B557-CC656F4F751A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
