@@ -182,6 +182,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestSeriesProduct", "lar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularBuffer", "circular-buffer\CircularBuffer.csproj", "{991A2BA4-F4D0-486C-B557-CC656F4F751A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "word-count\WordCount.csproj", "{0D05CA59-91F0-402E-9D13-97D55D842716}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -552,5 +554,9 @@ Global
 		{991A2BA4-F4D0-486C-B557-CC656F4F751A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{991A2BA4-F4D0-486C-B557-CC656F4F751A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{991A2BA4-F4D0-486C-B557-CC656F4F751A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D05CA59-91F0-402E-9D13-97D55D842716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D05CA59-91F0-402E-9D13-97D55D842716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D05CA59-91F0-402E-9D13-97D55D842716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D05CA59-91F0-402E-9D13-97D55D842716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
