@@ -186,6 +186,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "word-count\Wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordy", "wordy\Wordy.csproj", "{7BC3B588-2840-4B11-831A-5F3B7C53E79D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change", "change\Change.csproj", "{BB9554B2-C9DA-4564-A471-E28E0E155C87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -564,5 +566,9 @@ Global
 		{7BC3B588-2840-4B11-831A-5F3B7C53E79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BC3B588-2840-4B11-831A-5F3B7C53E79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BC3B588-2840-4B11-831A-5F3B7C53E79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9554B2-C9DA-4564-A471-E28E0E155C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9554B2-C9DA-4564-A471-E28E0E155C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9554B2-C9DA-4564-A471-E28E0E155C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9554B2-C9DA-4564-A471-E28E0E155C87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
