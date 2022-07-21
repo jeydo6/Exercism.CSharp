@@ -184,6 +184,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularBuffer", "circular-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "word-count\WordCount.csproj", "{0D05CA59-91F0-402E-9D13-97D55D842716}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordy", "wordy\Wordy.csproj", "{7BC3B588-2840-4B11-831A-5F3B7C53E79D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -558,5 +560,9 @@ Global
 		{0D05CA59-91F0-402E-9D13-97D55D842716}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D05CA59-91F0-402E-9D13-97D55D842716}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D05CA59-91F0-402E-9D13-97D55D842716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC3B588-2840-4B11-831A-5F3B7C53E79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC3B588-2840-4B11-831A-5F3B7C53E79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC3B588-2840-4B11-831A-5F3B7C53E79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC3B588-2840-4B11-831A-5F3B7C53E79D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
