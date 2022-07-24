@@ -194,6 +194,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoCounting", "go-counting\G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect", "connect\Connect.csproj", "{FC990B3A-D32A-445B-9563-8BBF35F075B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZebraPuzzle", "zebra-puzzle\ZebraPuzzle.csproj", "{B712796A-8715-4D33-975F-CB409A636076}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -588,5 +590,9 @@ Global
 		{FC990B3A-D32A-445B-9563-8BBF35F075B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC990B3A-D32A-445B-9563-8BBF35F075B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC990B3A-D32A-445B-9563-8BBF35F075B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B712796A-8715-4D33-975F-CB409A636076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B712796A-8715-4D33-975F-CB409A636076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B712796A-8715-4D33-975F-CB409A636076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B712796A-8715-4D33-975F-CB409A636076}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
