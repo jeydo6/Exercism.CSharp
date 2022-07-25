@@ -196,6 +196,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connect", "connect\Connect.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZebraPuzzle", "zebra-puzzle\ZebraPuzzle.csproj", "{B712796A-8715-4D33-975F-CB409A636076}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureMunchesterUnited", "secure-munchester-united\SecureMunchesterUnited.csproj", "{1F531133-F030-4277-B5FB-EFCA04800FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperinflationHitsHyperia", "hyperinflation-hits-hyperia\HyperinflationHitsHyperia.csproj", "{1547A29F-9089-4024-9B8A-525847CEBBF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -594,5 +598,13 @@ Global
 		{B712796A-8715-4D33-975F-CB409A636076}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B712796A-8715-4D33-975F-CB409A636076}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B712796A-8715-4D33-975F-CB409A636076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F531133-F030-4277-B5FB-EFCA04800FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F531133-F030-4277-B5FB-EFCA04800FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F531133-F030-4277-B5FB-EFCA04800FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F531133-F030-4277-B5FB-EFCA04800FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1547A29F-9089-4024-9B8A-525847CEBBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1547A29F-9089-4024-9B8A-525847CEBBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1547A29F-9089-4024-9B8A-525847CEBBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1547A29F-9089-4024-9B8A-525847CEBBF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
