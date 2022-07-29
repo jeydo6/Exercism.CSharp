@@ -200,6 +200,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureMunchesterUnited", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperinflationHitsHyperia", "hyperinflation-hits-hyperia\HyperinflationHitsHyperia.csproj", "{1547A29F-9089-4024-9B8A-525847CEBBF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raindrops", "raindrops\Raindrops.csproj", "{CEFDBDED-4E32-4325-BACB-5FC78F819223}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -606,5 +608,9 @@ Global
 		{1547A29F-9089-4024-9B8A-525847CEBBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1547A29F-9089-4024-9B8A-525847CEBBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1547A29F-9089-4024-9B8A-525847CEBBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEFDBDED-4E32-4325-BACB-5FC78F819223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFDBDED-4E32-4325-BACB-5FC78F819223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFDBDED-4E32-4325-BACB-5FC78F819223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFDBDED-4E32-4325-BACB-5FC78F819223}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
