@@ -214,6 +214,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DndCharacter", "dnd-charact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "matrix\Matrix.csproj", "{6BA5764B-A805-4396-BDA0-6436205E0467}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeBuilding", "tree-building\TreeBuilding.csproj", "{899160B6-E069-45CF-AB3A-1344B499F257}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -648,5 +650,9 @@ Global
 		{6BA5764B-A805-4396-BDA0-6436205E0467}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BA5764B-A805-4396-BDA0-6436205E0467}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BA5764B-A805-4396-BDA0-6436205E0467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899160B6-E069-45CF-AB3A-1344B499F257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899160B6-E069-45CF-AB3A-1344B499F257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899160B6-E069-45CF-AB3A-1344B499F257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899160B6-E069-45CF-AB3A-1344B499F257}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
