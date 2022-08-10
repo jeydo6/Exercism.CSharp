@@ -224,6 +224,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SgfParsing", "sgf-parsing\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoBucket", "two-bucket\TwoBucket.csproj", "{F78B89ED-8FDD-45AE-821F-E1B9B38C40D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectRelationalMapping", "object-relational-mapping\ObjectRelationalMapping.csproj", "{8C8B94AE-194D-4E5D-86EF-431ADFC49EE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -678,5 +680,9 @@ Global
 		{F78B89ED-8FDD-45AE-821F-E1B9B38C40D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F78B89ED-8FDD-45AE-821F-E1B9B38C40D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F78B89ED-8FDD-45AE-821F-E1B9B38C40D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8B94AE-194D-4E5D-86EF-431ADFC49EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8B94AE-194D-4E5D-86EF-431ADFC49EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8B94AE-194D-4E5D-86EF-431ADFC49EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8B94AE-194D-4E5D-86EF-431ADFC49EE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
