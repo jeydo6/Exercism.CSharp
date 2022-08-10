@@ -228,6 +228,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectRelationalMapping", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandling", "error-handling\ErrorHandling.csproj", "{E63086A9-F00A-4D1D-8F8F-228A40F100F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighSchoolSweethearts", "high-school-sweethearts\HighSchoolSweethearts.csproj", "{69D7CAA9-3F20-4DAC-B276-B2369863DC4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -690,5 +692,9 @@ Global
 		{E63086A9-F00A-4D1D-8F8F-228A40F100F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E63086A9-F00A-4D1D-8F8F-228A40F100F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E63086A9-F00A-4D1D-8F8F-228A40F100F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D7CAA9-3F20-4DAC-B276-B2369863DC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D7CAA9-3F20-4DAC-B276-B2369863DC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D7CAA9-3F20-4DAC-B276-B2369863DC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D7CAA9-3F20-4DAC-B276-B2369863DC4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
