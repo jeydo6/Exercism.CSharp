@@ -230,6 +230,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandling", "error-hand
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighSchoolSweethearts", "high-school-sweethearts\HighSchoolSweethearts.csproj", "{69D7CAA9-3F20-4DAC-B276-B2369863DC4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodChain", "food-chain\FoodChain.csproj", "{9AEAFFC4-57DB-444F-B2BC-2E6945D3E9EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -696,5 +698,9 @@ Global
 		{69D7CAA9-3F20-4DAC-B276-B2369863DC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69D7CAA9-3F20-4DAC-B276-B2369863DC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69D7CAA9-3F20-4DAC-B276-B2369863DC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AEAFFC4-57DB-444F-B2BC-2E6945D3E9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEAFFC4-57DB-444F-B2BC-2E6945D3E9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEAFFC4-57DB-444F-B2BC-2E6945D3E9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEAFFC4-57DB-444F-B2BC-2E6945D3E9EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
