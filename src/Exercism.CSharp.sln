@@ -232,6 +232,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighSchoolSweethearts", "hi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodChain", "food-chain\FoodChain.csproj", "{9AEAFFC4-57DB-444F-B2BC-2E6945D3E9EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grep", "grep\Grep.csproj", "{CD8D3F00-97C7-4355-835E-E2095FDC0033}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -702,5 +704,9 @@ Global
 		{9AEAFFC4-57DB-444F-B2BC-2E6945D3E9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AEAFFC4-57DB-444F-B2BC-2E6945D3E9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AEAFFC4-57DB-444F-B2BC-2E6945D3E9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8D3F00-97C7-4355-835E-E2095FDC0033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8D3F00-97C7-4355-835E-E2095FDC0033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8D3F00-97C7-4355-835E-E2095FDC0033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8D3F00-97C7-4355-835E-E2095FDC0033}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
