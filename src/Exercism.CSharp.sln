@@ -242,6 +242,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tournament", "tournament\To
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResistorColorTrio", "resistor-color-trio\ResistorColorTrio.csproj", "{AEB3DF5D-F304-4109-BFA0-5AE58B2B7C02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "House", "house\House.csproj", "{72B3679A-A723-4DEA-BD43-047AC2F66A38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -732,5 +734,9 @@ Global
 		{AEB3DF5D-F304-4109-BFA0-5AE58B2B7C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEB3DF5D-F304-4109-BFA0-5AE58B2B7C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEB3DF5D-F304-4109-BFA0-5AE58B2B7C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B3679A-A723-4DEA-BD43-047AC2F66A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B3679A-A723-4DEA-BD43-047AC2F66A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B3679A-A723-4DEA-BD43-047AC2F66A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B3679A-A723-4DEA-BD43-047AC2F66A38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
