@@ -250,6 +250,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ledger", "ledger\Ledger.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwelveDays", "twelve-days\TwelveDays.csproj", "{837EE728-C16C-4E4C-B327-EEFF105AA4FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControlCompetition", "remote-control-competition\RemoteControlCompetition.csproj", "{158ABDEF-62D6-433D-A868-53EFD792FB30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -756,5 +758,9 @@ Global
 		{837EE728-C16C-4E4C-B327-EEFF105AA4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{837EE728-C16C-4E4C-B327-EEFF105AA4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{837EE728-C16C-4E4C-B327-EEFF105AA4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158ABDEF-62D6-433D-A868-53EFD792FB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158ABDEF-62D6-433D-A868-53EFD792FB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158ABDEF-62D6-433D-A868-53EFD792FB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158ABDEF-62D6-433D-A868-53EFD792FB30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
