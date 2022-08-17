@@ -262,6 +262,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker", "poker\Poker.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrumentsOfTexas", "instruments-of-texas\InstrumentsOfTexas.csproj", "{F431447D-2488-446E-A694-3E9E065187F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWeatherInDeather", "the-weather-in-deather\TheWeatherInDeather.csproj", "{049C83E1-0ADD-47C6-ADEB-F08882FF7FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -792,5 +794,9 @@ Global
 		{F431447D-2488-446E-A694-3E9E065187F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F431447D-2488-446E-A694-3E9E065187F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F431447D-2488-446E-A694-3E9E065187F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049C83E1-0ADD-47C6-ADEB-F08882FF7FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049C83E1-0ADD-47C6-ADEB-F08882FF7FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049C83E1-0ADD-47C6-ADEB-F08882FF7FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049C83E1-0ADD-47C6-ADEB-F08882FF7FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
