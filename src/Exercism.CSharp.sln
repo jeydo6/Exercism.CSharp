@@ -266,6 +266,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWeatherInDeather", "the-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizardsAndWarriors2", "wizards-and-warriors-2\WizardsAndWarriors2.csproj", "{E1F84B83-EFCB-4052-9310-23692940ACE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmInOneGo", "orm-in-one-go\OrmInOneGo.csproj", "{33670A04-78C7-4EC1-BB13-4687A944BCF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -804,5 +806,9 @@ Global
 		{E1F84B83-EFCB-4052-9310-23692940ACE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1F84B83-EFCB-4052-9310-23692940ACE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1F84B83-EFCB-4052-9310-23692940ACE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33670A04-78C7-4EC1-BB13-4687A944BCF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33670A04-78C7-4EC1-BB13-4687A944BCF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33670A04-78C7-4EC1-BB13-4687A944BCF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33670A04-78C7-4EC1-BB13-4687A944BCF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
