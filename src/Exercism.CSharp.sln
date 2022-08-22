@@ -280,6 +280,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingTelemetry", "buildi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOps", "list-ops\ListOps.csproj", "{D296DA4F-FEA6-4CD0-8DF3-10007CBE01BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faceid2", "faceid-2\Faceid2.csproj", "{3F5C0646-9080-4083-981D-7FBFC47E6F7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -846,5 +848,9 @@ Global
 		{D296DA4F-FEA6-4CD0-8DF3-10007CBE01BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D296DA4F-FEA6-4CD0-8DF3-10007CBE01BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D296DA4F-FEA6-4CD0-8DF3-10007CBE01BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5C0646-9080-4083-981D-7FBFC47E6F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5C0646-9080-4083-981D-7FBFC47E6F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5C0646-9080-4083-981D-7FBFC47E6F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5C0646-9080-4083-981D-7FBFC47E6F7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
