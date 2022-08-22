@@ -282,6 +282,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOps", "list-ops\ListOps
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faceid2", "faceid-2\Faceid2.csproj", "{3F5C0646-9080-4083-981D-7FBFC47E6F7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman", "hangman\Hangman.csproj", "{4CE94249-D9BD-4947-96B5-5E19A05CC537}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -852,5 +854,9 @@ Global
 		{3F5C0646-9080-4083-981D-7FBFC47E6F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F5C0646-9080-4083-981D-7FBFC47E6F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F5C0646-9080-4083-981D-7FBFC47E6F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE94249-D9BD-4947-96B5-5E19A05CC537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE94249-D9BD-4947-96B5-5E19A05CC537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE94249-D9BD-4947-96B5-5E19A05CC537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE94249-D9BD-4947-96B5-5E19A05CC537}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
