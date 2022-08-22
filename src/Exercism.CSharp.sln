@@ -276,6 +276,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingLogFiles", "parsing-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi", "rest-api\RestApi.csproj", "{03DA7C2B-31D9-4FC4-BC6E-BBBF7FB39591}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingTelemetry", "building-telemetry\BuildingTelemetry.csproj", "{4CAE0915-F0CD-4D6E-AD73-A4347E6CA185}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -834,5 +836,9 @@ Global
 		{03DA7C2B-31D9-4FC4-BC6E-BBBF7FB39591}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03DA7C2B-31D9-4FC4-BC6E-BBBF7FB39591}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03DA7C2B-31D9-4FC4-BC6E-BBBF7FB39591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CAE0915-F0CD-4D6E-AD73-A4347E6CA185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAE0915-F0CD-4D6E-AD73-A4347E6CA185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAE0915-F0CD-4D6E-AD73-A4347E6CA185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAE0915-F0CD-4D6E-AD73-A4347E6CA185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
