@@ -284,6 +284,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faceid2", "faceid-2\Faceid2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman", "hangman\Hangman.csproj", "{4CE94249-D9BD-4947-96B5-5E19A05CC537}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "clock\Clock.csproj", "{00C30797-4C48-469C-B95F-54C376C52238}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -858,5 +860,9 @@ Global
 		{4CE94249-D9BD-4947-96B5-5E19A05CC537}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CE94249-D9BD-4947-96B5-5E19A05CC537}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CE94249-D9BD-4947-96B5-5E19A05CC537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C30797-4C48-469C-B95F-54C376C52238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C30797-4C48-469C-B95F-54C376C52238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C30797-4C48-469C-B95F-54C376C52238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C30797-4C48-469C-B95F-54C376C52238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
