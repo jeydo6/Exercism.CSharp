@@ -306,6 +306,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingBrackets", "matchin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangle", "pascals-triangle\PascalsTriangle.csproj", "{6CA7B726-9FA2-4AE6-9F86-9DE0B6B12E04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoSquare", "crypto-square\CryptoSquare.csproj", "{3E188A1B-E537-466E-B540-07BD467B56D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -924,5 +926,9 @@ Global
 		{6CA7B726-9FA2-4AE6-9F86-9DE0B6B12E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CA7B726-9FA2-4AE6-9F86-9DE0B6B12E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CA7B726-9FA2-4AE6-9F86-9DE0B6B12E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E188A1B-E537-466E-B540-07BD467B56D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E188A1B-E537-466E-B540-07BD467B56D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E188A1B-E537-466E-B540-07BD467B56D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E188A1B-E537-466E-B540-07BD467B56D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
