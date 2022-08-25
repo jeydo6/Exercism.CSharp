@@ -304,6 +304,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumbers", "complex-n
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingBrackets", "matching-brackets\MatchingBrackets.csproj", "{AF7973DC-7CB0-4279-8BD1-7FE5EF4E5B85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangle", "pascals-triangle\PascalsTriangle.csproj", "{6CA7B726-9FA2-4AE6-9F86-9DE0B6B12E04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -918,5 +920,9 @@ Global
 		{AF7973DC-7CB0-4279-8BD1-7FE5EF4E5B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF7973DC-7CB0-4279-8BD1-7FE5EF4E5B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF7973DC-7CB0-4279-8BD1-7FE5EF4E5B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA7B726-9FA2-4AE6-9F86-9DE0B6B12E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA7B726-9FA2-4AE6-9F86-9DE0B6B12E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA7B726-9FA2-4AE6-9F86-9DE0B6B12E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA7B726-9FA2-4AE6-9F86-9DE0B6B12E04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
