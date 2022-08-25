@@ -312,6 +312,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NthPrime", "nth-prime\NthPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphametics", "alphametics\Alphametics.csproj", "{620EC01A-E021-47B7-AD8E-FA79FFAA551A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "React", "react\React.csproj", "{91AA260D-CC5B-4328-80B6-175F44659C57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -942,5 +944,9 @@ Global
 		{620EC01A-E021-47B7-AD8E-FA79FFAA551A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{620EC01A-E021-47B7-AD8E-FA79FFAA551A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{620EC01A-E021-47B7-AD8E-FA79FFAA551A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91AA260D-CC5B-4328-80B6-175F44659C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AA260D-CC5B-4328-80B6-175F44659C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AA260D-CC5B-4328-80B6-175F44659C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AA260D-CC5B-4328-80B6-175F44659C57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
