@@ -300,6 +300,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandGrabInSpace", "land-gra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNumbers", "rational-numbers\RationalNumbers.csproj", "{5051905B-41F2-4AA4-BF73-5412EBCF83CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumbers", "complex-numbers\ComplexNumbers.csproj", "{B2547508-033C-495C-BC7D-5E2871CCA45C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -906,5 +908,9 @@ Global
 		{5051905B-41F2-4AA4-BF73-5412EBCF83CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5051905B-41F2-4AA4-BF73-5412EBCF83CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5051905B-41F2-4AA4-BF73-5412EBCF83CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2547508-033C-495C-BC7D-5E2871CCA45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2547508-033C-495C-BC7D-5E2871CCA45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2547508-033C-495C-BC7D-5E2871CCA45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2547508-033C-495C-BC7D-5E2871CCA45C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
