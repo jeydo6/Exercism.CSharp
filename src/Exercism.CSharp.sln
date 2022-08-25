@@ -302,6 +302,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNumbers", "rational
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumbers", "complex-numbers\ComplexNumbers.csproj", "{B2547508-033C-495C-BC7D-5E2871CCA45C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingBrackets", "matching-brackets\MatchingBrackets.csproj", "{AF7973DC-7CB0-4279-8BD1-7FE5EF4E5B85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -912,5 +914,9 @@ Global
 		{B2547508-033C-495C-BC7D-5E2871CCA45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2547508-033C-495C-BC7D-5E2871CCA45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2547508-033C-495C-BC7D-5E2871CCA45C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7973DC-7CB0-4279-8BD1-7FE5EF4E5B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7973DC-7CB0-4279-8BD1-7FE5EF4E5B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7973DC-7CB0-4279-8BD1-7FE5EF4E5B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7973DC-7CB0-4279-8BD1-7FE5EF4E5B85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
