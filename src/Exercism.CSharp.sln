@@ -320,6 +320,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControlCleanup", "rem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedVsBlueDarwinStyle", "red-vs-blue-darwin-style\RedVsBlueDarwinStyle.csproj", "{1CA05BB4-1579-43CE-8A94-8111273940F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationSystem", "authentication-system\AuthenticationSystem.csproj", "{5E398AED-4603-403A-9BBD-7229318058BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -966,5 +968,9 @@ Global
 		{1CA05BB4-1579-43CE-8A94-8111273940F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CA05BB4-1579-43CE-8A94-8111273940F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CA05BB4-1579-43CE-8A94-8111273940F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E398AED-4603-403A-9BBD-7229318058BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E398AED-4603-403A-9BBD-7229318058BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E398AED-4603-403A-9BBD-7229318058BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E398AED-4603-403A-9BBD-7229318058BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
