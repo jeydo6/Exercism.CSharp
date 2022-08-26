@@ -324,6 +324,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationSystem", "aut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "hello-world\HelloWorld.csproj", "{4077D0E7-FA58-4AC1-85E1-2CE4F40B6C8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuciansLusciousLasagna", "lucians-luscious-lasagna\LuciansLusciousLasagna.csproj", "{C3C02B3E-EC5D-402D-9B2E-6C6DB9B25A33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -978,5 +980,9 @@ Global
 		{4077D0E7-FA58-4AC1-85E1-2CE4F40B6C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4077D0E7-FA58-4AC1-85E1-2CE4F40B6C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4077D0E7-FA58-4AC1-85E1-2CE4F40B6C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C02B3E-EC5D-402D-9B2E-6C6DB9B25A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C02B3E-EC5D-402D-9B2E-6C6DB9B25A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C02B3E-EC5D-402D-9B2E-6C6DB9B25A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C02B3E-EC5D-402D-9B2E-6C6DB9B25A33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
