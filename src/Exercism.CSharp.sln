@@ -322,6 +322,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedVsBlueDarwinStyle", "red
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationSystem", "authentication-system\AuthenticationSystem.csproj", "{5E398AED-4603-403A-9BBD-7229318058BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "hello-world\HelloWorld.csproj", "{4077D0E7-FA58-4AC1-85E1-2CE4F40B6C8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -972,5 +974,9 @@ Global
 		{5E398AED-4603-403A-9BBD-7229318058BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E398AED-4603-403A-9BBD-7229318058BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E398AED-4603-403A-9BBD-7229318058BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4077D0E7-FA58-4AC1-85E1-2CE4F40B6C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4077D0E7-FA58-4AC1-85E1-2CE4F40B6C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4077D0E7-FA58-4AC1-85E1-2CE4F40B6C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4077D0E7-FA58-4AC1-85E1-2CE4F40B6C8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
