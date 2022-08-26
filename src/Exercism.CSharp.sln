@@ -326,6 +326,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "hello-world\H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuciansLusciousLasagna", "lucians-luscious-lasagna\LuciansLusciousLasagna.csproj", "{C3C02B3E-EC5D-402D-9B2E-6C6DB9B25A33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoFer", "two-fer\TwoFer.csproj", "{448A633A-4A55-4DC4-B312-D94043A59842}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -984,5 +986,9 @@ Global
 		{C3C02B3E-EC5D-402D-9B2E-6C6DB9B25A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3C02B3E-EC5D-402D-9B2E-6C6DB9B25A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3C02B3E-EC5D-402D-9B2E-6C6DB9B25A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448A633A-4A55-4DC4-B312-D94043A59842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448A633A-4A55-4DC4-B312-D94043A59842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448A633A-4A55-4DC4-B312-D94043A59842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448A633A-4A55-4DC4-B312-D94043A59842}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
