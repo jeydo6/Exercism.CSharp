@@ -6,7 +6,7 @@ internal static class Bob
     {
         statement = statement.Trim();
         
-        if (IsEmpty(statement))
+        if (statement.IsEmpty())
         {
             return "Fine. Be that way!";
         }
@@ -23,5 +23,5 @@ internal static class Bob
 
     private static bool IsQuestion(this string statement) => statement[^1] == '?';
 
-    private static bool IsEmpty(this string statement) => statement == "";
+    private static bool IsEmpty(this string statement) => statement == string.Empty;
 }
