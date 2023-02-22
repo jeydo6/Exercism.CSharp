@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 internal class Anagram
 {
@@ -8,34 +9,21 @@ internal class Anagram
 
     public Anagram(string baseWord) => (_baseWord, _chars) = (baseWord, GetChars(baseWord));
 
-    public string[] FindAnagrams(string[] potentialMatches)
-    {
-        var anagrams = new List<string>();
-        for (var i = 0; i < potentialMatches.Length; i++)
-        {
-            if (string.Compare(_baseWord, potentialMatches[i], StringComparison.OrdinalIgnoreCase) == 0)
-            {
-                continue;
-            }
-            
-            var chars = GetChars(potentialMatches[i]);
-            var isAnagram = true;
-            for (var j = 0; j < 26; j++)
-            {
-                if (chars[j] != _chars[j])
-                {
-                    isAnagram = false;
-                    break;
-                }
-            }
+    public string[] FindAnagrams(string[] potentialMatches) => potentialMatches.Where(IsAnagram).ToArray();
 
-            if (isAnagram)
-            {
-                anagrams.Add(potentialMatches[i]);
-            }
+    private bool IsAnagram(string potentialMatch)
+    {
+        if (string.Compare(_baseWord, potentialMatch, StringComparison.OrdinalIgnoreCase) == 0)
+            return false;
+        
+        var chars = GetChars(potentialMatch);
+        for (var j = 0; j < 26; j++)
+        {
+            if (chars[j] != _chars[j])
+                return false;
         }
 
-        return anagrams.ToArray();
+        return true;
     }
 
     private static int[] GetChars(string word)
